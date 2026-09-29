@@ -1,0 +1,35 @@
+Person dials emergency number
+
+          ↓
+
+SafeLink receives alert
+
+          ↓
+
+Find user's community
+
+          ↓
+
+Send to trusted responders only
+
+          ↓
+
+Responder checks situation
+
+          ↓
+
+Responder confirms:
+
+"TRUE EMERGENCY"
+
+          ↓
+
+System alerts verified community members
+
+          |
+COMMUNITY EMERGENCY ALERT
+
+A serious emergency has been confirmed
+at Masaka Street, Uya Community.
+
+Please stay alert and assist if possible.

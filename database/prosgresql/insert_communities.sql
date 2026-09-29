@@ -1,0 +1,5 @@
+-- Insert communities
+--
+-- 1. Add community name
+-- 2. Connect community to LGA
+-- 3. Save community information

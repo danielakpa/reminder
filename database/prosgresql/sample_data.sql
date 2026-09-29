@@ -1,0 +1,6 @@
+-- Testing database information
+--
+-- 1. Create test users
+-- 2. Create test communities
+-- 3. Create test responders
+-- 4. Create test alerts

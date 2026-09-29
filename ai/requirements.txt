@@ -1,0 +1,10 @@
+# Python dependency list
+#
+# 1. Store required Python libraries
+# 2. Allow easy installation
+# 3. Keep AI environment consistent
+#
+# Example:
+# pandas
+# numpy
+# scikit-learn

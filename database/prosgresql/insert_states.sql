@@ -1,0 +1,5 @@
+-- Insert Nigerian states
+--
+-- 1. Add state name
+-- 2. Generate state ID
+-- 3. Save state information

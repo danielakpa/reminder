@@ -1,0 +1,5 @@
+-- Insert Nigerian LGAs
+--
+-- 1. Add LGA name
+-- 2. Connect LGA to state
+-- 3. Save LGA information
